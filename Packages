@@ -1,18 +1,19 @@
 
-Package: com.tigisoftware.filza64bit
-Version: 3.8.2-4
+Package:	 com.spark.snowboard
+Version: 1.4.12~Beta4
 Architecture: iphoneos-arm
 Maintainer: Abuanas
-Depends:  zip, unzip, gzip, unrar, p7zip
-Conflicts:  com.tigisoftware.filza
-Filename: debs/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
-Size: 8387434
-MD5sum:  eb947177c58647ec420a31af4610a64c
-SHA1:  05dd43c936b8f4994f051ec6c16452ac175b09db
-SHA256:  af35a2784770b72c8b85734254ab050ba866ebbabe17b0c5ae31082739104d43
-Section: Utilities
+Depends:  mobilesubstrate, preferenceloader
+Conflicts:  anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces:  anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/1.4.12~Beta4.deb
+Size:  1562164
+MD5sum:  a4dc9696690c0711b57d8c8a327e7fcf
+SHA1:  389e7e7dc840e46aa0c601c86a6a42273005e91f
+SHA256:  f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
+Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
-Name: Filza File Manager
+Name:  SnowBoard
 
 Package: com.cokepokes.appstoreplusplus
 Version: 0.9.16-2
