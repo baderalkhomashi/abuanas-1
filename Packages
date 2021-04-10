@@ -1,1 +1,15 @@
 
+Package: com.tigisoftware.filza
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Maintainer: Abuanas	
+Depends:  zip, unzip, gzip, unrar, p7zip	
+Conflicts:  com.tigisoftware.filza64bit
+Filename: debs/com.cokepokes.appstoreplusplus_0.9.5_iphoneos-arm.deb	
+Size:  12948918
+MD5sum:	fb8d0a2be499a22c0b5b3386de68bbd1
+SHA1: 50925139d21067b790ffa4ecd10f4547b049c743
+SHA256:	3bab347de7ab41c1dddb62c5928a02fb753cc24d8ed4c841818c55e469c3600f
+Section: Utilities
+Depiction: https://x7mii15.github.io/test	Depiction: https://repo.packix.com/package/com.ioscreatix.littlex/
+Name: appstore++
