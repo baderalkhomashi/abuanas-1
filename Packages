@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Maintainer: Abuanas	
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
-Filename: debs/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
+Filename: debs/com.tigisoftware.filza_3.8.2-4_iphoneos-arm 2.deb
 Size: 12948918
 MD5sum: fb8d0a2be499a22c0b5b3386de68bbd1
 SHA1: 50925139D21067B790FFA4ECD10F4547B049C743
