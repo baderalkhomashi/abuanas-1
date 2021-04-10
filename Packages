@@ -37,3 +37,67 @@ Name:   YouTube Reborn
 	
 
 	
+Package: com.cokepokes.appstoreplusplus	
+Version: 0.9.16-2
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends:  firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: deb/com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
+Size: 3024992
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: appstore++
+	
+
+
+Package: com.tigisoftware.filza64bit
+Version: 3.8.2-4
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends:  zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza
+Filename: deb/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
+Size: 8387434
+MD5sum: 	eb947177c58647ec420a31af4610a64c
+SHA1: 05dd43c936b8f4994f051ec6c16452ac175b09db
+SHA256: af35a2784770b72c8b85734254ab050ba866ebbabe17b0c5ae31082739104d43
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: Filza File Manager
+
+	
+Package: com.rpgfarm.a-bypass
+Version:  1.5.3
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Conflicts:
+Filename: deb/com.rpgfarm.a-bypass.deb
+Size: 98952
+MD5sum:	5ba4349df8cdc749b4684c603479b5c1
+SHA1:	ef83d980f978e7b3e3ae65e84f1fa5a6168c1dc4
+SHA256: 99ac1d1df7ac2bc78dfaf934c759ea879b1187e4e5d839a02fded8c007ebe397
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name: A-Bypass
+	
+
+	
+Package:  com.rpgfarm.a-font
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: abuanas
+Depends : mobilesubstrate, applist (>= 1.5.15~beta1)
+Conflicts:
+Filename: deb/com.rpgfarm.a-font.deb
+Size:  520148
+MD5sum:	 7bc06a7cc5f934f97aede3e020ddd2cb
+SHA1:	 f02852d3afad4fa4cf0b98b01a79e1828c02bc61
+SHA256:  32be71fa13c6188b0314d491a03b4ccc521fea90e890457c94e982e5cbd0d023
+Section: Tweaks
+Depiction: https://baderalkhomashi.github.io/abuanas/
+Name:  A-Font
