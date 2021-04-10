@@ -16,3 +16,18 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: AppStore++
 	
+Package:  com.tigisoftware.filza
+Version :  3.8.1-30
+Architecture: iphoneos-arm
+Maintainer: Abuanas
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts : com.tigisoftware.filza64bit
+Filename: debs/com.tigisoftware.filza_3.8.1-30_iphoneos-arm.deb
+Size:  12947486
+MD5sum:  4691aac553620e170730c9fe55962c7f
+SHA1:  9f786d64a19d90a3aa19b5dcabe4410d64162156
+SHA256:  a17c67dd881a92f03e168da78038c215e090f9125bcbce62023de5a988876840
+Section:  Utilities
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  Filza File Manager
+	
