@@ -29,3 +29,18 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: AppStore++
 
+Package:	 com.rpgfarm.a-font
+Version: 1.9.3
+Architecture: iphoneos-arm
+Maintainer: Abuanas
+Depends:  mobilesubstrate, applist (>= 1.5.15~beta1)
+Replaces: 
+Filename: debs/com.rpgfarm.a-font.deb
+Size:  520148
+MD5sum:  7bc06a7cc5f934f97aede3e020ddd2cb
+SHA1:  f02852d3afad4fa4cf0b98b01a79e1828c02bc61
+SHA256: 32be71fa13c6188b0314d491a03b4ccc521fea90e890457c94e982e5cbd0d023
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: 
+	
