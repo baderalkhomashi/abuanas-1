@@ -1,40 +1,4 @@
 
-Package: com.cokepokes.appstoreplusplus
-Version :  0.9.16-2
-Architecture: iphoneos-arm
-Maintainer: Abuanas
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts : com.unlimapps.uaupdatetool
-Priority : optional
-Compatibility :  iOS 11+
-Filename: debs/com.cokepokes.appstoreplusplus_0.9.16-2_iphoneos-arm.deb
-Size:  3024992
-MD5sum:  e953eed8ca5b093477ba291a16c96d9e
-SHA1:  bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
-SHA256:  18e928fb6df9b351f0454a8ed738bcc22c64fe5a2ff4802bbbf12416dd7ec298
-Section: Tweaks
-Depiction: https://abuanas52.github.io/abuanas/
-Name: AppStore++
-	
-
-
-Package:  com.tigisoftware.filza
-Version :  3.8.1-30
-Architecture: iphoneos-arm
-Maintainer: Abuanas
-Depends: zip, unzip, gzip, unrar, p7zip
-Conflicts : com.tigisoftware.filza64bit
-Filename: debs/com.tigisoftware.filza_3.8.1-30_iphoneos-arm.deb
-Size:  12947486
-MD5sum:  4691aac553620e170730c9fe55962c7f
-SHA1:  9f786d64a19d90a3aa19b5dcabe4410d64162156
-SHA256:  a17c67dd881a92f03e168da78038c215e090f9125bcbce62023de5a988876840
-Section:  Utilities
-Depiction: https://abuanas52.github.io/abuanas/
-Name:  Filza File Manager
-	
-
-
 Package:  com.exile90.icleanerpro
 Version :  7.9.1
 Architecture: iphoneos-arm
