@@ -93,3 +93,18 @@ Section: Control Center
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  Snapper2 CC Toggle
 	
+Package:  org.altervista.exilecom.icleaner
+Version :  7.9.1
+Architecture: iphoneos-arm
+Maintainer: Abuanas
+Depends: firmware (>= 4.0), apt | apt7, findutils
+Compatibility :  iOS 4+
+Filename: debs/icleaner_7.9.1.deb
+Size:  4781602
+MD5sum:  29af21e056acc8dd1dc693ef00e1e175
+SHA1:  2880af26d3ade68e8f45bd01ce030beff70534a9
+SHA256:  ea5846336437802dfabb976ca7571f3921ed6fe1e4196ea1ba84d0c45893b334
+Section:  Utilities
+Depiction: https://abuanas52.github.io/abuanas/
+Name:  iCleaner
+	
