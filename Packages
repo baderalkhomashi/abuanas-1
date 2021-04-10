@@ -7,7 +7,7 @@ Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit
 Filename: debs/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
 Size: 12948918
-MD5sum: fb8d0a2be499a22c0b5b3386de68bbd1
+MD5sum: 8942b83014cda56afbb56e70f8e3b888
 SHA1: 50925139d21067b790ffa4ecd10f4547b049c743
 SHA256: 3bab347de7ab41c1dddb62c5928a02fb753cc24d8ed4c841818c55e469c3600f
 Section: Tweaks
