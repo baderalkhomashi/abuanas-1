@@ -61,4 +61,21 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name:  PSApp Other Audio
 	
+Package:  me.alfhaily.rocket
+Version : 3.7.21
+Architecture: iphoneos-arm
+Maintainer: Abuanas
+Depends:  firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Priority :  optional
+Compatibility :  iOS 8+
+Replaces: 
+Filename: debs/me.alfhaily.rocket_3.7.21_iphoneos-arm.deb
+Size: 0
+MD5sum:  d41d8cd98f00b204e9800998ecf8427e
+SHA1:  da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256:  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: Rocket for Instagram
+	
 
