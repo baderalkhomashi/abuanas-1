@@ -13,3 +13,18 @@ SHA256: fb8d0a2be499a22c0b5b3386de68bbd1
 Section: Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name: Filza File Manager
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.9.16-2
+Architecture: iphoneos-arm
+Maintainer: Abuanas	
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: debs/
+Size: 3024992
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+SHA1: bb9a0dfcf9f7c0cfe0e718c71d05c75e52c6cae3
+SHA256: 18E928FB6DF9B351F0454A8ED738BCC22C64FE5A2FF4802BBBF12416DD7EC298
+Section: Tweaks
+Depiction: https://abuanas52.github.io/abuanas/
+Name: AppStore++
