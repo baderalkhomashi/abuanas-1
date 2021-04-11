@@ -52,8 +52,8 @@ Name: appstore++
 	
 
 
-Package: com.tigisoftware.filza64bit
-Version: 3.8.2-4
+Package: com.tigisoftware.filza
+Version: 3.8.1-29
 Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends:  zip, unzip, gzip, unrar, p7zip
@@ -64,7 +64,7 @@ MD5sum:  eb947177c58647ec420a31af4610a64c
 SHA1:  05dd43c936b8f4994f051ec6c16452ac175b09db
 SHA256:  AF35A2784770B72C8B85734254AB050BA866EBBABE17B0C5AE31082739104D43
 Section:  Utilities
-Depiction: https://baderalkhomashi.github.io/abuanas/
+Depiction: https://abuanas52.github.io/abuanas/
 Name:  Filza File Manager 64-bit
 
 
