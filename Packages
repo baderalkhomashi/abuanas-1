@@ -52,18 +52,20 @@ Name: appstore++
 	
 
 
-Package: com.tigisoftware.filza64bit
-Version: 3.8.2-4
+Package: com.tigisoftware.filza
+Version: 3.8.1-29
 Architecture: iphoneos-arm
 Maintainer: abuanas
-Depends:  zip, unzip, gzip, unrar, p7zip
-Conflicts: com.tigisoftware.filza
+Depends:  firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Priority : optional
+Compatibility : iOS 7+
 Filename: debs/com.tigisoftware.filza_3.8.2-4_iphoneos-arm.deb
-Size: 8387434
-MD5sum: eb947177c58647ec420a31af4610a64c
-SHA1: 05dd43c936b8f4994f051ec6c16452ac175b09db
-SHA256: af35a2784770b72c8b85734254ab050ba866ebbabe17b0c5ae31082739104d43
-Section: Tweaks
+Size: 5438464
+MD5sum: f3be72f5758b319260f7e2ae14c0652c
+SHA1: cc510615e5e32404bf3a6208ee3dda0419de7d0c
+SHA256: 29ebb0ebc82306623ef5ed6a8437fca9d7789d6d502b9a97b8a65c6dae6492fe
+Section: Utilities
 Depiction: https://abuanas52.github.io/abuanas/
 Name: Filza File Manager
 
