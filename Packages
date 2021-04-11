@@ -58,14 +58,14 @@ Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends:  zip, unzip, gzip, unrar, p7zip
 Conflicts:  com.tigisoftware.filza
-Filename: debs/com.tigisoftware.filza64bit_3.8.2-4_iphoneos-arm.deb
-Size:  8387434
-MD5sum:  eb947177c58647ec420a31af4610a64c
-SHA1:  05dd43c936b8f4994f051ec6c16452ac175b09db
-SHA256:  AF35A2784770B72C8B85734254AB050BA866EBBABE17B0C5AE31082739104D43
+Filename: debs/filzafilemanager_3.8.1-29.deb
+Size:  9529174
+MD5sum:  245e8bf0ca69f5410690a54d65780569
+SHA1:  848fee7311c1a980e6c38dea75f8ce4974b2079a
+SHA256:  5d28b39b87ceb613ee9da2f687b6f5af4bb7febbf500c4321893a75f16c84e63
 Section:  Utilities
 Depiction: https://abuanas52.github.io/abuanas/
-Name:  Filza File Manager 64-bit
+Name:  Filza File Manager 
 
 
 	
