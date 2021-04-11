@@ -53,7 +53,7 @@ Name: appstore++
 
 
 Package: com.tigisoftware.filza64bit
-Version: 
+Version: 3.8.2-4
 Architecture: iphoneos-arm
 Maintainer: abuanas
 Depends:  zip, unzip, gzip, unrar, p7zip
@@ -84,7 +84,6 @@ Section: Tweaks
 Depiction: https://abuanas52.github.io/abuanas/
 Name: A-Bypass
 	
-
 	
 
 Package:  com.rpgfarm.a-font
